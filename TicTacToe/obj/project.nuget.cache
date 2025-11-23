@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Pc+ohNyviCk=",
+  "dgSpecHash": "rgpQWXcd9bA=",
   "success": true,
   "projectFilePath": "C:\\Users\\vinicius\\Documents\\Estudos\\C#\\Projects\\Project-TicTacToe\\TicTacToe\\TicTacToe.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vinicius\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.9\\microsoft.netcore.app.runtime.win-x64.9.0.9.nupkg.sha512",
+    "C:\\Users\\vinicius\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.9\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.9.nupkg.sha512",
+    "C:\\Users\\vinicius\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.9\\microsoft.aspnetcore.app.runtime.win-x64.9.0.9.nupkg.sha512"
+  ],
   "logs": []
 }
