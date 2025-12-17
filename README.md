@@ -85,7 +85,7 @@ Although it is a simple project, it helps build strong fundamentals that are ess
 Data Engineer (in progress)
 
 * GitHub: [https://github.com/viniciusoliver7](https://github.com/viniciusoliver7)
-* LinkedIn: *(add your LinkedIn profile here)*
+* LinkedIn: [https://www.linkedin.com/in/vinicius-oliveira-nascimento-702b5720a/](https://www.linkedin.com/in/vinicius-oliveira-nascimento-702b5720a/)
 
 ---
 
